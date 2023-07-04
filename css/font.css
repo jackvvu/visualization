@@ -1,0 +1,53 @@
+/*-------------------------- 苹方字体 --------------------------*/
+/*-------------------------- 苹方字体 --------------------------*/
+/*-------------------------- 苹方字体 --------------------------*/
+/*-------------------------- 苹方字体 --------------------------*/
+@font-face {
+    font-family: "PingFangSC-Ultralight";
+    src: url("../font/PingFangSC-Ultralight.otf");font-weight: normal;font-style: normal;
+}
+@font-face {
+    font-family: "PingFangSC-Thin";
+    src: url("../font/PingFangSC-Thin.otf");font-weight: normal;font-style: normal;
+}
+@font-face {
+    font-family: "PingFangSC-Light";
+    src: url("../font/PingFangSC-Light.otf");font-weight: normal;font-style: normal;
+}
+@font-face {
+    font-family: "PingFangSC-Regular";
+    src: url("../font/PingFangSC-Regular.otf");font-weight: normal;font-style: normal;
+}
+@font-face {
+    font-family: "PingFangSC-Medium";
+    src: url("../font/PingFangSC-Medium.otf");font-weight: normal;font-style: normal;
+}
+@font-face {
+    font-family: "PingFangSC-Semibold";
+    src: url("../font/PingFangSC-Semibold.otf.otf");font-weight: normal;font-style: normal;
+}
+
+/*-------------------------- DINPro字体 --------------------------*/
+/*-------------------------- DINPro字体 --------------------------*/
+/*-------------------------- DINPro字体 --------------------------*/
+/*-------------------------- DINPro字体 --------------------------*/
+@font-face {
+    font-family: "DINPro-Light";
+    src: url("../font/DINPro-Light.otf");font-weight: normal;font-style: normal;
+}
+@font-face {
+    font-family: "DINPro-Regular";
+    src: url("../font/DINPro-Regular.otf");font-weight: normal;font-style: normal;
+}
+@font-face {
+    font-family: "DINPro-Medium";
+    src: url("../font/DINPro-Medium.otf");font-weight: normal;font-style: normal;
+}
+@font-face {
+    font-family: "DINPro-Bold";
+    src: url("../font/DINPro-Bold.otf");font-weight: normal;font-style: normal;
+}
+@font-face {
+    font-family: "DINPro-Black";
+    src: url("../font/DINPro-Black.otf");font-weight: normal;font-style: normal;
+}
